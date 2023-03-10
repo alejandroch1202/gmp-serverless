@@ -1,0 +1,21 @@
+{
+  "name": "gmp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "serverless",
+    "aws",
+    "nodejs",
+    "web3",
+    "eth"
+  ],
+  "author": "Alejandro Chavez <alejandrochavez1202@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "serverless-offline": "^12.0.4"
+  }
+}
